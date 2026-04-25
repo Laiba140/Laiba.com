@@ -1,2 +1,2 @@
-# Laiba.com
+# imran.com
 This is my first repository
